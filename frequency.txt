@@ -1,0 +1,31 @@
+Sentence in Paragraph 1:7
+Words in sentence 1 : 5
+Charater in word 1 of sentence 1 : 2
+Charater in word 2 of sentence 1 : 4
+Charater in word 3 of sentence 1 : 2
+Charater in word 4 of sentence 1 : 5
+Charater in word 5 of sentence 1 : 7
+Words in sentence 2 : 5
+Charater in word 1 of sentence 2 : 2
+Charater in word 2 of sentence 2 : 4
+Charater in word 3 of sentence 2 : 2
+Charater in word 4 of sentence 2 : 5
+Charater in word 5 of sentence 2 : 7
+Words in sentence 3 : 5
+Charater in word 1 of sentence 3 : 3
+Charater in word 2 of sentence 3 : 4
+Charater in word 3 of sentence 3 : 2
+Charater in word 4 of sentence 3 : 6
+Charater in word 5 of sentence 3 : 7
+Words in sentence 4 : 2
+Charater in word 1 of sentence 4 : 3
+Charater in word 2 of sentence 4 : 5
+Words in sentence 5 : 1
+Charater in word 1 of sentence 5 : 3
+Words in sentence 6 : 5
+Charater in word 1 of sentence 6 : 3
+Charater in word 2 of sentence 6 : 4
+Charater in word 3 of sentence 6 : 2
+Charater in word 4 of sentence 6 : 6
+Charater in word 5 of sentence 6 : 7
+Words in sentence 7 : 0
